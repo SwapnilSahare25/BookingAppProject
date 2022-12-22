@@ -11,6 +11,7 @@ class ViewController: UIViewController {
 
     
     var name : String = "Swapnil"
+    var sName : String = "Sahare"
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
